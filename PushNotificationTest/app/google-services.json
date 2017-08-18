@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "822926475495",
+    "firebase_url": "https://fir-testapp-465d6.firebaseio.com",
+    "project_id": "fir-testapp-465d6",
+    "storage_bucket": "fir-testapp-465d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822926475495:android:976fdb4057550956",
+        "android_client_info": {
+          "package_name": "com.pushnotificationtest.ashiq.pushnotificationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822926475495-1q2o0r6qo2foit8f0f3ja6atkueudk1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNv7rQLVjxQ3Qf05kR5daEWkK96xlSN_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
